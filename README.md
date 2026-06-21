@@ -20,6 +20,7 @@ Actively working on data-driven projects to strengthen analytical and problem-so
 
 ## Education
 Bachelor of Science (Computer Science)
+
 Satish Pradhan Dnyanasadhana College, Thane
 
 ## Connect With Me
