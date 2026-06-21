@@ -19,7 +19,8 @@ Actively working on data-driven projects to strengthen analytical and problem-so
 - Pandas
 
 ## Education
-Bachelor of Science (Computer Science)
+
+🎓 Bachelor of Science (Computer Science)
 
 Satish Pradhan Dnyanasadhana College, Thane
 
